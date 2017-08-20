@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {},
   "author": "yagizmungan@gmail.com",
-  "license": "Attribution-NonCommercial-ShareAlike 4.0 International",
+  "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
     "browser-sync": "^2.12.8",
     "cheerio": "^0.20.0",
