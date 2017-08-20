@@ -1,0 +1,16 @@
+{
+  "name": "AQuatreMains",
+  "version": "1.0.0",
+  "description": "VR musical instrument",
+  "main": "gulpfile.js",
+  "scripts": {},
+  "author": "yagizmungan@gmail.com",
+  "license": "Attribution-NonCommercial-ShareAlike 4.0 International",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "cheerio": "^0.20.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.7",
+    "mkdirp": "^0.5.1"
+  }
+}
